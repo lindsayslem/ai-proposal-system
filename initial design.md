@@ -3,11 +3,11 @@
 The purpose of my project is to create an AI-powered web app that help contractors generate, edit, and send proposals using real pricing data. The goal of the project is to automate
 proposal writing, keep all job information in one place, allow users to edit and export proposals, and track proposal status in one log. 
 ## Sample Project Purpose Diagram
-[Sample project purpose](initial-design-sample.png)
+![Sample project purpose](initial-design-sample.png)
 ## Entity Relationship Diagram
-[ERD](final-projectERD.png)
+![ERD](final-projectERD.png)
 ## Rough System Design Diagram
-[Rough system design](ai-proposal-rough-system-design.png)
+![Rough system design](ai-proposal-rough-system-design.png)
 My goal is to work on the project **1 hour a day or 7 hours a week total**.
 Weekly breakdown:
 |Week | Goal |
