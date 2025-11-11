@@ -1,0 +1,76 @@
+# ---------------------------------------
+# OS / System
+# ---------------------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------------------
+# Python
+# ---------------------------------------
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.eggs/
+.Python
+build/
+develop-eggs/
+dist/
+pip-wheel-metadata/
+share/python-wheels/
+.tox/
+.nox/
+.coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.dmypy.json
+.pyre/
+.cache/
+*.pyo
+*.pyd
+
+# ---------------------------------------
+# FastAPI / Project Files
+# ---------------------------------------
+# Local databases
+dev.db
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+.env.*
+
+# IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+logs/
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+
+# ---------------------------------------
+# Node / Frontend
+# ---------------------------------------
+node_modules/
+dist/
+build/
+.cache/
+*.tsbuildinfo
+
+# ---------------------------------------
+# Misc
+# ---------------------------------------
+*.bak
+*.swp
+*.tmp

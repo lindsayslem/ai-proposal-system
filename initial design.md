@@ -13,7 +13,7 @@ Weekly breakdown:
 |Week | Goal |
 |-----|------|
 | 1 | Initial design, finalize ERD, build database models|
-| 2 | API structure, connect fron and backend|
+| 2 | API structure, connect front and backend|
 | 3 | Start proposal creation flow, AI proposal generation + PDF output|
 | 4 | Polish UI, testing, documentation|
 | 5 | Final report|
